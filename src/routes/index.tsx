@@ -377,7 +377,7 @@ function TeamCard({
         width={640}
         height={640}
         loading="lazy"
-        className="aspect-square w-full object-cover"
+        className="aspect-square w-full object-cover object-top"
       />
       <div className="p-7">
         <div className="font-mono text-[11px] uppercase tracking-[0.2em] text-signal">
